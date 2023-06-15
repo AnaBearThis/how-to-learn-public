@@ -1,5 +1,6 @@
 # Научиться учиться
-Alt-H1
+## Ссылка на Pages
+https://anabearthis.github.io/how-to-learn-public/
 ------
 
 ## Описание проекта
