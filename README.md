@@ -1,4 +1,6 @@
 # Научиться учиться
+### Верстка
+
 ## Ссылка на Pages
 https://anabearthis.github.io/how-to-learn-public/
 ------
